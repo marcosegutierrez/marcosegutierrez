@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcosegutierrez
-- 👀 I’m interested in the Java & Python backend language
+- 👀 I’m interested in the Java & Python backend language. Dabbling in javascript technologies
 - 🌱 I’m currently studying Systems Analysis
 
 <!---
