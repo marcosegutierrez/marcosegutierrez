@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosegutierrez
-- 👀 I’m interested in the Java & Python backend language. Dabbling in javascript technologies
-- 🌱 I’m currently studying Systems Analysis
+- 👀 I’m interested Backend programming. Dabbling in javascript technologies
+- 🌱 Systems Analyst
 
 <!---
 - 💞️ I’m looking to collaborate on ...
